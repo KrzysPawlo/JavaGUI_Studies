@@ -1,2 +1,2 @@
 # JavaGUI_Studies
-Java GUI projects from university
+Just some projects from Uni
